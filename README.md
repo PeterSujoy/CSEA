@@ -1,4 +1,6 @@
-kubectl cammands
+minikube start --driver docker ("make sure your docker desktop is running")
+
+**kubectl cammands**
 
 kubectl get pod
 
